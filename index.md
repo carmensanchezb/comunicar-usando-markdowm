@@ -4,3 +4,7 @@
 $ git init
 Probando paso 3
 ```
+
+ - [ ] Hacer paso 1
+ - [ ] Añadir imagen
+ - [ ] Terminando paso 4
